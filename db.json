@@ -1,0 +1,44 @@
+{
+  "test": [
+    {
+      "quote": "Awesome"
+    },
+    {
+      "quote": "Arigato"
+    },
+    {
+      "quote": "uketamo"
+    }
+  ],
+  "plants": {
+    "flowering": [
+      "Impatiens",
+      "Sweet Alyssum",
+      "Hibiscus",
+      "Aster",
+      "Lavender",
+      "Moss rose",
+      "Marigold"
+    ],
+    "fruits": [
+      "Apples",
+      "Blueberries",
+      "Cherries",
+      "Figs",
+      "Gooseberries",
+      "Plums",
+      "Blackcurrants",
+      "Strawberries"
+    ],
+    "vegetables": [
+      "Potatoes",
+      "chard",
+      "lettuce",
+      "cherry and bush tomatoes",
+      "peppers",
+      "eggplants",
+      "summer squash",
+      "Asian greens"
+    ]
+  }
+}
